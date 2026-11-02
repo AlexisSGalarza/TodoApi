@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CGLf/H26Ne4=",
+  "success": true,
+  "projectFilePath": "/Users/alexisgalarza/Documents/Github/TodoApi/TodoApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexisgalarza/.nuget/packages/microsoft.aspnetcore.openapi/10.0.13/microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "/Users/alexisgalarza/.nuget/packages/microsoft.entityframeworkcore/10.0.14/microsoft.entityframeworkcore.10.0.14.nupkg.sha512",
+    "/Users/alexisgalarza/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.14/microsoft.entityframeworkcore.abstractions.10.0.14.nupkg.sha512",
+    "/Users/alexisgalarza/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.14/microsoft.entityframeworkcore.analyzers.10.0.14.nupkg.sha512",
+    "/Users/alexisgalarza/.nuget/packages/microsoft.entityframeworkcore.inmemory/10.0.14/microsoft.entityframeworkcore.inmemory.10.0.14.nupkg.sha512",
+    "/Users/alexisgalarza/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512",
+    "/Users/alexisgalarza/.nuget/packages/scalar.aspnetcore/2.18.7/scalar.aspnetcore.2.18.7.nupkg.sha512"
+  ],
+  "logs": []
+}
